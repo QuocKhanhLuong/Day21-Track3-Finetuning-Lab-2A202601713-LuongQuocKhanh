@@ -1,0 +1,27 @@
+[
+  {
+    "i": 3,
+    "baseline_b_pred": "{\"intent\": \"hoan_tien\", \"urgency\": \"trung_binh\", \"product\": \"bình giữ nhiệt\", \"sentiment\": \"tich_cuc\"}",
+    "latency_ms_batch_avg": 1751.3
+  },
+  {
+    "i": 5,
+    "baseline_b_pred": "{\"intent\": \"hoan_tien\", \"urgency\": \"cao\", \"product\": \"nồi chiên không dầu\", \"sentiment\": \"trung_tinh\"}",
+    "latency_ms_batch_avg": 1751.3
+  },
+  {
+    "i": 12,
+    "baseline_b_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"trung_binh\", \"product\": \"áo khoác gió\", \"sentiment\": \"tich_cuc\"}",
+    "latency_ms_batch_avg": 1751.3
+  },
+  {
+    "i": 49,
+    "baseline_b_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"cao\", \"product\": \"ốp lưng điện thoại\", \"sentiment\": \"tieu_cuc\"}",
+    "latency_ms_batch_avg": 1751.3
+  },
+  {
+    "i": 48,
+    "baseline_b_pred": "{\"intent\": \"doi_tra\", \"urgency\": \"trung_binh\", \"product\": \"ốp lưng điện thoại\", \"sentiment\": \"trung_tinh\"}",
+    "latency_ms_batch_avg": 1751.3
+  }
+]
